@@ -11,7 +11,7 @@
 
 <br /><br />
 
-[![Website](https://img.shields.io/badge/portableweb.org-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.github.io)
+[![Website](https://img.shields.io/badge/portableweb-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.github.io)
 [![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.github.io/app/)
 [![Spec](https://img.shields.io/badge/spec-v0.1%20draft-20d6d2?style=flat-square)](https://github.com/portableweb/spec)
 [![License](https://img.shields.io/badge/code-MIT-444?style=flat-square)](https://opensource.org/licenses/MIT)
