@@ -11,8 +11,8 @@
 
 <br /><br />
 
-[![Website](https://img.shields.io/badge/portableweb.org-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.org)
-[![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.org/app/)
+[![Website](https://img.shields.io/badge/portableweb.org-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.github.io)
+[![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.github.io/app/)
 [![Spec](https://img.shields.io/badge/spec-v0.1%20draft-20d6d2?style=flat-square)](https://github.com/portableweb/spec)
 [![License](https://img.shields.io/badge/code-MIT-444?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Spec license](https://img.shields.io/badge/spec-CC--BY%204.0-444?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
@@ -52,7 +52,7 @@ my-document.pweb
 
 ## Try it now
 
-The **[PortableWeb web app](https://portableweb.org/app/)** runs entirely in your browser — open and render any `.pweb`, pack a project folder into a bundle, validate one against the spec, or scaffold a new project. No install, no account, nothing leaves your device.
+The **[PortableWeb web app](https://portableweb.github.io/app/)** runs entirely in your browser — open and render any `.pweb`, pack a project folder into a bundle, validate one against the spec, or scaffold a new project. No install, no account, nothing leaves your device.
 
 ```bash
 # Prefer a terminal? The CLI packs and validates bundles too.
@@ -66,7 +66,7 @@ pweb validate my-document.pweb
 | Repository | What it is |
 |---|---|
 | [**spec**](https://github.com/portableweb/spec) | The format specification, schema, and example bundles |
-| [**.github**](https://github.com/portableweb/.github) | This profile, plus the [portableweb.org](https://portableweb.org) website |
+| [**.github**](https://github.com/portableweb/.github) | This profile, plus the [portableweb.github.io](https://portableweb.github.io) website |
 | [**Discussions**](https://github.com/portableweb/portableweb/discussions) | Ideas, questions, and design conversations |
 
 > The CLI and viewer repos welcome PRs too — check the [open issues across the org](https://github.com/portableweb) for good starting points.
@@ -82,5 +82,5 @@ PortableWeb is a small project with large ambitions. The format is still in **dr
 
 <div align="center">
 <br />
-<sub>Spec licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> · Code licensed <a href="https://opensource.org/licenses/MIT">MIT</a> · <a href="https://portableweb.org">portableweb.org</a></sub>
+<sub>Spec licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> · Code licensed <a href="https://opensource.org/licenses/MIT">MIT</a> · <a href="https://portableweb.github.io">portableweb.github.io</a></sub>
 </div>
