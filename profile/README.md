@@ -84,3 +84,9 @@ PortableWeb is a small project with large ambitions. The format is still in **dr
 <br />
 <sub>Spec licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> · Code licensed <a href="https://opensource.org/licenses/MIT">MIT</a> · <a href="https://portableweb.github.io">portableweb.github.io</a></sub>
 </div>
+
+---
+
+<div align="center">
+<sub>PortableWeb™ is claimed as a trademark by the PortableWeb project creator. The .pweb file format is an open specification. Use of the name PortableWeb must not imply endorsement or official status unless authorized. Truthful statements such as "supports .pweb files" are permitted.</sub>
+</div>
