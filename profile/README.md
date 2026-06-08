@@ -88,5 +88,5 @@ PortableWeb is a small project with large ambitions. The format is still in **dr
 ---
 
 <div align="center">
-<sub>PortableWeb™ is claimed as a trademark by the PortableWeb project creator. The .pweb file format is an open specification. Use of the name PortableWeb must not imply endorsement or official status unless authorized. Truthful statements such as "supports .pweb files" are permitted.</sub>
+<sub>This project is open for community contribution. All materials are contributed under the Creative Commons Attribution 4.0 license (CC-BY-4.0). This work is being submitted as input to the W3C Portable Web Content Format (PortableWeb) Community Group.</sub>
 </div>
