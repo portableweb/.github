@@ -66,6 +66,7 @@ pweb validate my-document.pweb
 | Repository | What it is |
 |---|---|
 | [**spec**](https://github.com/portableweb/spec) | The format specification, schema, and example bundles |
+| [**IETF Internet-Draft**](https://github.com/portableweb/spec/blob/main/ietf/draft-selvaraj-portableweb-format-00.md) | Formal specification submission: `draft-selvaraj-portableweb-format-00` |
 | [**.github**](https://github.com/portableweb/.github) | This profile, plus the [portableweb.github.io](https://portableweb.github.io) website |
 | [**Discussions**](https://github.com/portableweb/portableweb/discussions) | Ideas, questions, and design conversations |
 
