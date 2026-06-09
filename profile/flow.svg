@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 460" width="1280" height="460" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" role="img" aria-label="PortableWeb flow: you ask an AI to build interactive web content, it is generated, you pack it as a single .pweb file, and it runs everywhere on phone, Mac, PC, or shared with a friend.">
+  <title>From a prompt to a portable file that runs everywhere</title>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"></stop><stop offset="0.5" stop-color="#60a5fa"></stop><stop offset="1" stop-color="#5eead4"></stop>
+    </linearGradient>
+    <linearGradient id="gradTile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed"></stop><stop offset="0.46" stop-color="#2563eb"></stop><stop offset="1" stop-color="#20d6d2"></stop>
+    </linearGradient>
+    <linearGradient id="trackFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2a2a45"></stop><stop offset="0.5" stop-color="#3a3a60"></stop><stop offset="1" stop-color="#2a2a45"></stop>
+    </linearGradient>
+    <radialGradient id="pulseGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7dd3fc" stop-opacity="0.9"></stop><stop offset="1" stop-color="#7dd3fc" stop-opacity="0"></stop>
+    </radialGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"></feGaussianBlur><feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="460" rx="22" fill="#0b0b15"></rect>
+  <rect x="0" y="0" width="1280" height="5" rx="2.5" fill="url(#gradTile)"></rect>
+  <ellipse cx="180" cy="120" rx="360" ry="220" fill="#7c3aed" opacity="0.10"></ellipse>
+  <ellipse cx="1120" cy="360" rx="380" ry="240" fill="#20d6d2" opacity="0.08"></ellipse>
+
+  <text x="64" y="62" fill="#f3f3ff" font-size="27" font-weight="700" letter-spacing="-0.5">The missing file format for the <tspan fill="url(#grad)">interactive web.</tspan></text>
+  <text x="64" y="92" fill="#8f8fc0" font-size="17">Interactive web content — built by hand or with any AI tool — saved as one portable <tspan fill="#a78bfa" font-weight="600">.pweb</tspan> file.</text>
+
+  <line x1="300" y1="250" x2="1006" y2="250" stroke="url(#trackFade)" stroke-width="3" stroke-dasharray="2 7" stroke-linecap="round"></line>
+
+  <g>
+    <circle r="22" fill="url(#pulseGlow)">
+      
+      
+      
+    </circle>
+    <circle r="5" fill="#bae6fd">
+      
+      
+      
+    </circle>
+  </g>
+
+  <g>
+    <rect x="64" y="150" width="232" height="206" rx="16" fill="#13131f" stroke="#2b2b45" stroke-width="1.5"></rect>
+    <rect x="64" y="150" width="232" height="206" rx="16" fill="none" stroke="#a78bfa" stroke-width="1.6" opacity="0">
+      
+    </rect>
+    <circle cx="92" cy="182" r="11" fill="#23233a"></circle>
+    <circle cx="92" cy="182" r="4" fill="url(#grad)"></circle>
+    <text x="112" y="187" fill="#8f8fc0" font-size="13" font-weight="600" letter-spacing="0.5">YOU</text>
+    <g>
+      <g>
+        
+        <text x="92" y="232" fill="#dcdcf5" font-size="18" font-weight="500">Build me an</text>
+        <text x="92" y="258" fill="#dcdcf5" font-size="18" font-weight="500">interactive 3D</text>
+        <text x="92" y="284" fill="#dcdcf5" font-size="18" font-weight="500">periodic table.</text>
+      </g>
+      <g opacity="0">
+        
+        <text x="92" y="232" fill="#dcdcf5" font-size="18" font-weight="500">Make a 3D</text>
+        <text x="92" y="258" fill="#dcdcf5" font-size="18" font-weight="500">photo album of</text>
+        <text x="92" y="284" fill="#dcdcf5" font-size="18" font-weight="500">our trip.</text>
+      </g>
+      <g opacity="0">
+        
+        <text x="92" y="232" fill="#dcdcf5" font-size="18" font-weight="500">Code a little</text>
+        <text x="92" y="258" fill="#dcdcf5" font-size="18" font-weight="500">arcade game</text>
+        <text x="92" y="284" fill="#dcdcf5" font-size="18" font-weight="500">I can play.</text>
+      </g>
+      <g opacity="0">
+        
+        <text x="92" y="232" fill="#dcdcf5" font-size="18" font-weight="500">An interactive</text>
+        <text x="92" y="258" fill="#dcdcf5" font-size="18" font-weight="500">report for my</text>
+        <text x="92" y="284" fill="#dcdcf5" font-size="18" font-weight="500">boss.</text>
+      </g>
+    </g>
+    <rect x="92" y="298" width="11" height="20" rx="1.5" fill="#a78bfa">
+      
+    </rect>
+    <text x="180" y="392" text-anchor="middle" fill="#6f6f9e" font-size="14" font-weight="600" letter-spacing="1.4">01 · ASK ANY AI</text>
+  </g>
+
+  <g>
+    <rect x="364" y="150" width="232" height="206" rx="16" fill="#13131f" stroke="#2b2b45" stroke-width="1.5"></rect>
+    <rect x="364" y="150" width="232" height="206" rx="16" fill="none" stroke="#60a5fa" stroke-width="1.6" opacity="0">
+      
+    </rect>
+    <line x1="364" y1="180" x2="596" y2="180" stroke="#2b2b45" stroke-width="1.2"></line>
+    <circle cx="382" cy="165" r="3.5" fill="#3a3a5c"></circle><circle cx="396" cy="165" r="3.5" fill="#3a3a5c"></circle><circle cx="410" cy="165" r="3.5" fill="#3a3a5c"></circle>
+    <text x="582" y="169" text-anchor="end" fill="#5b5b86" font-size="11" font-weight="600" letter-spacing="0.8">ANY AI TOOL</text>
+    <g>
+      <g transform="translate(480,272)">
+        
+        <g transform="skewX(-12) scale(1,0.86)">
+          <g fill="#2563eb">
+            <rect x="-78" y="-46" width="15" height="15" rx="2"></rect><rect x="-60" y="-46" width="15" height="15" rx="2"></rect><rect x="-42" y="-46" width="15" height="15" rx="2"></rect><rect x="-24" y="-46" width="15" height="15" rx="2"></rect><rect x="-6" y="-46" width="15" height="15" rx="2"></rect><rect x="12" y="-46" width="15" height="15" rx="2"></rect><rect x="30" y="-46" width="15" height="15" rx="2"></rect><rect x="48" y="-46" width="15" height="15" rx="2"></rect>
+            <rect x="-78" y="-28" width="15" height="15" rx="2"></rect><rect x="-60" y="-28" width="15" height="15" rx="2"></rect><rect x="-42" y="-28" width="15" height="15" rx="2"></rect><rect x="-24" y="-28" width="15" height="15" rx="2"></rect><rect x="-6" y="-28" width="15" height="15" rx="2"></rect><rect x="12" y="-28" width="15" height="15" rx="2"></rect><rect x="30" y="-28" width="15" height="15" rx="2"></rect><rect x="48" y="-28" width="15" height="15" rx="2"></rect>
+            <rect x="-78" y="-10" width="15" height="15" rx="2"></rect><rect x="-60" y="-10" width="15" height="15" rx="2"></rect><rect x="-42" y="-10" width="15" height="15" rx="2"></rect><rect x="-24" y="-10" width="15" height="15" rx="2"></rect><rect x="-6" y="-10" width="15" height="15" rx="2"></rect><rect x="12" y="-10" width="15" height="15" rx="2"></rect><rect x="30" y="-10" width="15" height="15" rx="2"></rect><rect x="48" y="-10" width="15" height="15" rx="2"></rect>
+          </g>
+          <rect x="-42" y="-28" width="15" height="15" rx="2" fill="#5eead4"></rect>
+          <rect x="12" y="-10" width="15" height="15" rx="2" fill="#a78bfa"></rect>
+        </g>
+      </g>
+      <g transform="translate(480,268)" opacity="0">
+        
+        <rect x="-60" y="-44" width="80" height="58" rx="4" fill="#23233a" stroke="#3a3a5c" stroke-width="1.5" transform="rotate(-11)"></rect>
+        <rect x="-40" y="-40" width="80" height="58" rx="4" fill="#2b2b45" stroke="#4a4a72" stroke-width="1.5" transform="rotate(-2)"></rect>
+        <g transform="rotate(8)">
+          <rect x="-18" y="-36" width="80" height="58" rx="4" fill="#1c2540" stroke="#60a5fa" stroke-width="1.6"></rect>
+          <circle cx="6" cy="-16" r="9" fill="#5eead4"></circle>
+          <path d="M-14 18 L8 -4 L22 10 L34 0 L62 22 Z" fill="#2563eb"></path>
+        </g>
+      </g>
+      <g transform="translate(480,272)" opacity="0">
+        
+        <rect x="-72" y="-46" width="144" height="92" rx="6" fill="#0c1424" stroke="#2563eb" stroke-width="1.5"></rect>
+        <circle cx="-30" cy="-20" r="6" fill="#5eead4"></circle><circle cx="18" cy="6" r="6" fill="#a78bfa"></circle>
+        <rect x="-44" y="30" width="40" height="7" rx="3.5" fill="#60a5fa"></rect><rect x="10" y="30" width="40" height="7" rx="3.5" fill="#60a5fa"></rect>
+        <path d="M40 -30 l10 10 l-10 10 l-10 -10 z" fill="#fbbf24"></path>
+      </g>
+      <g transform="translate(480,278)" opacity="0">
+        
+        <rect x="-30" y="-8" width="16" height="30" rx="2" fill="#2563eb"></rect><rect x="-8" y="-22" width="16" height="44" rx="2" fill="#60a5fa"></rect>
+        <rect x="14" y="-38" width="16" height="60" rx="2" fill="#5eead4"></rect><rect x="36" y="-26" width="16" height="48" rx="2" fill="#a78bfa"></rect>
+        <path d="M-28 -2 L-2 -16 L20 -30 L46 -38" fill="none" stroke="#f3f3ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="-38" y1="24" x2="56" y2="24" stroke="#3a3a5c" stroke-width="1.5"></line>
+      </g>
+    </g>
+    <text x="480" y="392" text-anchor="middle" fill="#6f6f9e" font-size="14" font-weight="600" letter-spacing="1.4">02 · IT BUILDS</text>
+  </g>
+
+  <g>
+    <rect x="664" y="150" width="232" height="206" rx="16" fill="#13131f" stroke="#2b2b45" stroke-width="1.5"></rect>
+    <rect x="664" y="150" width="232" height="206" rx="16" fill="none" stroke="#5eead4" stroke-width="1.6" opacity="0">
+      
+    </rect>
+    <g transform="translate(780,248)" filter="url(#soft)">
+      <g opacity="0.25">
+        
+        
+        <g transform="translate(-39,-42) scale(2.4)" fill="url(#gradTile)">
+          <rect x="9" y="6.5" width="18" height="5" rx="2.5" opacity="0.5"></rect>
+          <rect x="7" y="11" width="22" height="6" rx="3" opacity="0.74"></rect>
+          <rect x="5" y="16.5" width="26" height="13.5" rx="4"></rect>
+        </g>
+      </g>
+    </g>
+    <text x="780" y="316" text-anchor="middle" fill="#dcdcf5" font-size="19" font-weight="700" font-family="ui-monospace, &#39;SFMono-Regular&#39;, Menlo, monospace">trip.pweb</text>
+    <text x="780" y="392" text-anchor="middle" fill="#6f6f9e" font-size="14" font-weight="600" letter-spacing="1.4">03 · PACK AS .PWEB</text>
+  </g>
+
+  <g>
+    <g transform="translate(1006,160)">
+      <rect width="124" height="86" rx="13" fill="#13131f" stroke="#2b2b45" stroke-width="1.5"></rect>
+      <rect width="124" height="86" rx="13" fill="none" stroke="url(#grad)" stroke-width="1.8" opacity="0"></rect>
+      <rect x="20" y="22" width="28" height="44" rx="5" fill="none" stroke="#8585b5" stroke-width="2"></rect>
+      <line x1="29" y1="60" x2="39" y2="60" stroke="#8585b5" stroke-width="2" stroke-linecap="round"></line>
+      <text x="62" y="48" fill="#9a9ac8" font-size="13" font-weight="600">Phone</text>
+    </g>
+    <g transform="translate(1142,160)">
+      <rect width="124" height="86" rx="13" fill="#13131f" stroke="#2b2b45" stroke-width="1.5"></rect>
+      <rect width="124" height="86" rx="13" fill="none" stroke="url(#grad)" stroke-width="1.8" opacity="0"></rect>
+      <rect x="16" y="22" width="40" height="28" rx="3" fill="none" stroke="#8585b5" stroke-width="2"></rect>
+      <line x1="36" y1="50" x2="36" y2="58" stroke="#8585b5" stroke-width="2"></line>
+      <line x1="26" y1="60" x2="46" y2="60" stroke="#8585b5" stroke-width="2" stroke-linecap="round"></line>
+      <text x="68" y="48" fill="#9a9ac8" font-size="13" font-weight="600">PC</text>
+    </g>
+    <g transform="translate(1006,254)">
+      <rect width="124" height="86" rx="13" fill="#13131f" stroke="#2b2b45" stroke-width="1.5"></rect>
+      <rect width="124" height="86" rx="13" fill="none" stroke="url(#grad)" stroke-width="1.8" opacity="0"></rect>
+      <rect x="14" y="22" width="40" height="26" rx="3" fill="none" stroke="#8585b5" stroke-width="2"></rect>
+      <path d="M10 52 h48 l4 6 h-56 z" fill="#8585b5"></path>
+      <text x="68" y="46" fill="#9a9ac8" font-size="13" font-weight="600">Mac</text>
+    </g>
+    <g transform="translate(1142,254)">
+      <rect width="124" height="86" rx="13" fill="#13131f" stroke="#2b2b45" stroke-width="1.5"></rect>
+      <rect width="124" height="86" rx="13" fill="none" stroke="url(#grad)" stroke-width="1.8" opacity="0"></rect>
+      <circle cx="34" cy="34" r="8" fill="none" stroke="#8585b5" stroke-width="2"></circle>
+      <path d="M22 58 a12 12 0 0 1 24 0" fill="none" stroke="#8585b5" stroke-width="2" stroke-linecap="round"></path>
+      <text x="58" y="48" fill="#9a9ac8" font-size="13" font-weight="600">Friend</text>
+    </g>
+  </g>
+
+  <text x="64" y="436" fill="#9a9ac8" font-size="17" font-weight="500"><tspan fill="#dcdcf5" font-weight="600">A web app, treated like a document — run anywhere, fully offline.</tspan><tspan fill="#7d7daf"> PortableWeb is the format, not the AI.</tspan></text>
+</svg>
