@@ -13,7 +13,7 @@
 
 [![Website](https://img.shields.io/badge/portableweb-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.github.io)
 [![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.github.io/app/)
-[![Spec](https://img.shields.io/badge/spec-v0.1%20draft-20d6d2?style=flat-square)](https://github.com/portableweb/spec/blob/main/ietf/draft-selvaraj-portableweb-format-00.md)
+[![Spec](https://img.shields.io/badge/spec-v0.1%20draft-20d6d2?style=flat-square)](https://www.ietf.org/archive/id/draft-selvaraj-portableweb-format-00.html)
 [![License](https://img.shields.io/badge/code-MIT-444?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Spec license](https://img.shields.io/badge/spec-CC--BY%204.0-444?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -65,7 +65,7 @@ pweb validate my-document.pweb
 
 | Repository | What it is |
 |---|---|
-| [**Formal Specification Submission**](https://github.com/portableweb/spec/blob/main/ietf/draft-selvaraj-portableweb-format-00.md) | Formal specification submission: `draft-selvaraj-portableweb-format-00` |
+| [**Formal Specification Submission**](https://www.ietf.org/archive/id/draft-selvaraj-portableweb-format-00.html) | Formal specification submission: `draft-selvaraj-portableweb-format-00` |
 | [**.github**](https://github.com/portableweb/.github) | This profile, plus the [portableweb.github.io](https://portableweb.github.io) website |
 | [**Discussions**](https://github.com/portableweb/portableweb/discussions) | Ideas, questions, and design conversations |
 
