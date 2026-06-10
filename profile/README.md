@@ -10,7 +10,7 @@
 
 <br /><br />
 
-# Portable Web Content Foramt (PortableWeb)
+# PortableWeb
 
 **The missing file format for the interactive web.** One `.pweb` file that runs on any device, fully offline — no server, no web origin, no app store.
 
