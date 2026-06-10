@@ -19,7 +19,7 @@
 [![Website](https://img.shields.io/badge/portableweb.org-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.org)
 [![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.org/app/)
 [![W3C Community Group](https://img.shields.io/badge/W3C-Community%20Group-005a9c?style=flat-square)](https://www.w3.org/community/portableweb/)
-[![IETF Internet-Draft](https://img.shields.io/badge/IETF-Internet--Draft-20d6d2?style=flat-square&labelColor=333)](https://datatracker.ietf.org/doc/draft-selvaraj-portableweb-format/)
+[![IETF Internet-Draft](https://img.shields.io/badge/IETF-Internet--Draft-20d6d2?style=flat-square&labelColor=333)](https://www.ietf.org/archive/id/draft-selvaraj-portableweb-format-01.html)
 [![Spec](https://img.shields.io/badge/spec-v0.1%20draft-9f67f5?style=flat-square)](https://github.com/portableweb/spec)
 [![License](https://img.shields.io/badge/code-MIT-444?style=flat-square)](https://opensource.org/licenses/MIT)
 
@@ -79,26 +79,11 @@ my-document.pweb
 PortableWeb isn't a private format. It's being developed where the web is built:
 
 - 🌐 **[W3C Community Group](https://www.w3.org/community/portableweb/)** — the *Portable Web Content Format* CG. Container, manifest, viewer conformance, per-bundle storage, and a genuinely new permission-gated **offline peer-to-peer channel** (Bluetooth / Wi-Fi Direct) for multiplayer and collaboration without any server. Anyone may join; W3C membership not required.
-- 📜 **[IETF Internet-Draft](https://datatracker.ietf.org/doc/draft-selvaraj-portableweb-format/)** — `draft-selvaraj-portableweb-format` defines the container, manifest schema, security considerations, and the `application/vnd.portableweb+zip` media type.
+- 📜 **[IETF Internet-Draft](https://www.ietf.org/archive/id/draft-selvaraj-portableweb-format-01.html)** — `draft-selvaraj-portableweb-format` defines the container, manifest schema, security considerations, and the `application/vnd.portableweb+zip` media type.
 
 ## Try it now
 
 The **[PortableWeb web app](https://portableweb.org/app/)** runs entirely in your browser — open and render any `.pweb`, pack a project folder into a bundle, validate one against the spec, or scaffold a new project. No install, no account, nothing leaves your device.
-
-```bash
-# Prefer a terminal? The CLI packs and validates bundles too.
-npm install -g portableweb
-pweb pack ./my-document      # build a .pweb from a folder
-pweb validate my-document.pweb
-```
-
-## Projects
-
-| Repository | What it is |
-|---|---|
-| [**spec**](https://github.com/portableweb/spec) | The format specification, schema, and example bundles |
-| [**.github**](https://github.com/portableweb/.github) | This profile, plus the [portableweb.org](https://portableweb.org) website |
-| [**Discussions**](https://github.com/portableweb/portableweb/discussions) | Ideas, questions, and design conversations |
 
 ## Get involved
 
