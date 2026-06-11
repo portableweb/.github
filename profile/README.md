@@ -16,8 +16,8 @@
 
 *PortableWeb is not an AI platform. It’s the open format for what you — and any AI tool — build with web technology.*
 
-[![Website](https://img.shields.io/badge/portableweb.org-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.org)
-[![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.org/app/)
+[![Website](https://img.shields.io/badge/portableweb.org-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.github.io/)
+[![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.github.io/app/)
 [![W3C Community Group](https://img.shields.io/badge/W3C-Community%20Group-005a9c?style=flat-square)](https://www.w3.org/community/portableweb/)
 [![IETF Internet-Draft](https://img.shields.io/badge/IETF-Internet--Draft-20d6d2?style=flat-square&labelColor=333)](https://www.ietf.org/archive/id/draft-selvaraj-portableweb-format-01.html)
 [![Spec](https://img.shields.io/badge/spec-v0.1%20draft-9f67f5?style=flat-square)](https://github.com/portableweb/spec)
