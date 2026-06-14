@@ -12,7 +12,7 @@
 
 # PortableWeb
 
-**The missing file format for the interactive web.** One `.pweb` file that runs on any device, fully offline — no server, no web origin, no app store.
+**The file format for a portable web bundle, built to run everywhere.** One `.pweb` file that runs on any device, fully offline — no server, no web origin, no app store.
 
 *PortableWeb is not an AI platform. It’s the open format for what you — and any AI tool — build with web technology.*
 
