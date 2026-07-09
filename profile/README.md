@@ -83,7 +83,8 @@ PortableWeb isn't a private format. It's being developed where the web is built:
 
 ## Try it now
 
-The **[PortableWeb web app](https://portableweb.org/app/)** runs entirely in your browser — open and render any `.pweb`, pack a project folder into a bundle, validate one against the spec, or scaffold a new project. No install, no account, nothing leaves your device.
+The **[PortableWeb web app](https://portableweb.org/app/)** runs entirely in your browser — open and render any `.pweb`, pack a project folder into a bundle, validate one against the spec, or scaffold a new project. No install, no account, nothing leaves your device. This is only to demonstrate .pweb.
+Platform specific viewers are in making. These viewers will have full security controls inplace and enable storage options.
 
 ## Get involved
 
