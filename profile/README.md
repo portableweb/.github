@@ -14,22 +14,24 @@
 
 **The file format for a portable web bundle, built to run everywhere.** One `.pweb` file that runs on any device, fully offline — no server, no web origin, no app store.
 
+*Documents have `.docx`. Spreadsheets have `.xlsx`. AI-created apps have `.pweb`.*
+
 *PortableWeb is not an AI platform. It’s the open format for what you — and any AI tool — build with web technology.*
 
 [![Website](https://img.shields.io/badge/portableweb.org-0b0b15?style=flat-square&labelColor=0b0b15&color=7c3aed)](https://portableweb.github.io/)
 [![Open the app](https://img.shields.io/badge/open%20the%20app-%E2%86%97-2563eb?style=flat-square)](https://portableweb.github.io/app/)
 [![W3C Community Group](https://img.shields.io/badge/W3C-Community%20Group-005a9c?style=flat-square)](https://www.w3.org/community/portableweb/)
-[![IETF Internet-Draft](https://img.shields.io/badge/IETF-Internet--Draft-20d6d2?style=flat-square&labelColor=333)](https://www.ietf.org/archive/id/draft-selvaraj-portableweb-format-01.html)
-[![Spec](https://img.shields.io/badge/spec-v0.1%20draft-9f67f5?style=flat-square)](https://github.com/portableweb/spec)
+[![IETF Internet-Draft](https://img.shields.io/badge/IETF-Internet--Draft-20d6d2?style=flat-square&labelColor=333)](https://datatracker.ietf.org/doc/draft-selvaraj-portableweb-format/)
+[![Spec](https://img.shields.io/badge/spec-v0.2%20draft-9f67f5?style=flat-square)](https://github.com/portableweb/spec)
 [![License](https://img.shields.io/badge/code-MIT-444?style=flat-square)](https://opensource.org/licenses/MIT)
 
 </div>
 
 ---
 
-## Interactive content is built in minutes now. Where does it live?
+## Anyone can create an app now. Where does it live?
 
-AI-assisted tools have changed the economics of building interactive web content: a simulation, a small game, a 3D experience, or a data-rich report that used to take days of skilled work now takes minutes — and it’s being made **by the million**, with whichever tools people already use. None of it has a natural place to live.
+People create documents in Word, spreadsheets in Excel, presentations in PowerPoint. Now anyone can create an **application** — by describing it to an AI in plain language. A simulation, a small game, a 3D experience, or a data-rich report that used to take days of skilled work now takes minutes — made **by the million**, by people who are not developers, with whichever tools they already use. Documents got their file formats forty years ago. These creations have none — and no natural place to live.
 
 Every existing option forces an unacceptable tradeoff:
 
@@ -42,7 +44,7 @@ Every existing option forces an unacceptable tradeoff:
 | **Web Bundles** | A network transport optimization, never broadly implemented. No offline-first execution model. |
 | **Web App Manifest** | Describes an already-deployed app. Tied to a web origin — it says nothing about content with no server at all. |
 
-> **No existing format treats interactive web content as a portable, self-contained, immediately runnable unit.**
+> **No existing format is platform-independent, portable, immediately runnable, shareable like a document, and able to carry its user's data inside. PortableWeb is that format.**
 
 ## PortableWeb is that unit.
 
@@ -79,12 +81,11 @@ my-document.pweb
 PortableWeb isn't a private format. It's being developed where the web is built:
 
 - 🌐 **[W3C Community Group](https://www.w3.org/community/portableweb/)** — the *Portable Web Content Format* CG. Container, manifest, viewer conformance, per-bundle storage, and a genuinely new permission-gated **offline peer-to-peer channel** (Bluetooth / Wi-Fi Direct) for multiplayer and collaboration without any server. Anyone may join; W3C membership not required.
-- 📜 **[IETF Internet-Draft](https://www.ietf.org/archive/id/draft-selvaraj-portableweb-format-01.html)** — `draft-selvaraj-portableweb-format` defines the container, manifest schema, security considerations, and the `application/vnd.portableweb+zip` media type.
+- 📜 **[IETF Internet-Draft](https://datatracker.ietf.org/doc/draft-selvaraj-portableweb-format/)** — `draft-selvaraj-portableweb-format` defines the container, manifest schema, security considerations, and the `application/vnd.portableweb+zip` media type (IANA-registered).
 
 ## Try it now
 
-The **[PortableWeb web app](https://portableweb.org/app/)** runs entirely in your browser — open and render any `.pweb`, pack a project folder into a bundle, validate one against the spec, or scaffold a new project. No install, no account, nothing leaves your device. This is only to demonstrate .pweb.
-Platform specific viewers are in making. These viewers will have full security controls inplace and enable storage options.
+The **[PortableWeb web app](https://portableweb.org/app/)** runs entirely in your browser — open and render any `.pweb`, pack a project folder into a bundle, validate one against the spec, or scaffold a new project. No install, no account, nothing leaves your device. This web app is a demonstration of `.pweb`; platform-specific viewers are in development, with full security controls in place and storage options enabled.
 
 ## Get involved
 
